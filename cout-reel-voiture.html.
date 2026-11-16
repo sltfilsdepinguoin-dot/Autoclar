@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Découvrez les dépenses à prendre en compte pour calculer le coût réel d'une voiture : carburant, assurance, entretien, pneus et décote.">
+<title>Combien coûte réellement une voiture par mois ? | AUTOCLAR</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#f4f7fa;color:#14283e;font:16px/1.7 Arial,sans-serif}
+header{background:#10243a;color:white;padding:22px 18px}
+nav,main,footer{max-width:850px;margin:auto}
+nav{display:flex;justify-content:space-between;align-items:center;gap:12px}
+nav a{color:#c9e3f8;text-decoration:none}
+.hero{padding:55px 0 40px}
+.hero small{color:#80b9e8;font-weight:bold;text-transform:uppercase;letter-spacing:1px}
+h1{font-size:clamp(32px,6vw,48px);line-height:1.15;margin:12px 0}
+.hero p{color:#d0dce8;font-size:18px}
+main{padding:28px 20px 55px}
+h2{font-size:25px;margin-top:38px}
+h3{font-size:19px}
+p{margin:12px 0}
+.card{background:white;border:1px solid #e1e8ef;border-radius:14px;padding:20px;margin:20px 0}
+.example{background:#eaf3fb;border-left:4px solid #1769aa}
+table{width:100%;border-collapse:collapse;margin:16px 0;background:white}
+th,td{padding:12px 10px;text-align:left;border-bottom:1px solid #e1e8ef}
+th{background:#edf3f8}
+.total{font-weight:bold}
+.cta{background:#10243a;color:white;text-align:center;padding:28px;border-radius:16px;margin:35px 0}
+.cta a{display:inline-block;background:#1769aa;color:white;text-decoration:none;padding:12px 20px;border-radius:9px;font-weight:bold;margin-top:10px}
+a{color:#1769aa}
+footer{padding:25px 20px;color:#65758a;font-size:13px}
+@media(max-width:550px){table{font-size:14px}th,td{padding:9px 6px}.hero{padding:38px 0 25px}}
+</style>
+</head>
+<body>
+<header>
+<nav>
+<strong>AUTOCLAR</strong>
+<a href="./">Retour au calculateur</a>
+</nav>
+<div class="hero">
+<small>Guide pratique AUTOCLAR</small>
+<h1>Combien coûte réellement une voiture par mois ?</h1>
+<p>Le prix d'achat ne représente qu'une partie du budget. Pour connaître le véritable coût d'une voiture, il faut prendre en compte toutes les dépenses liées à son utilisation et à sa perte de valeur.</p>
+</div>
+</header>
+
+<main>
+<p>Acheter une voiture à 6 000 € ne signifie pas qu'elle ne coûtera que 6 000 €. Chaque mois, il faut également financer le carburant, l'assurance, l'entretien et d'autres dépenses parfois oubliées.</p>
+
+<h2>1. Le carburant</h2>
+<p>Le budget carburant dépend principalement de trois éléments : la distance parcourue, la consommation du véhicule et le prix du litre.</p>
+<div class="card">
+<strong>Exemple de calcul :</strong>
+<p>10 000 km par an, une consommation de 6,5 L/100 km et un carburant à 1,85 €/L.</p>
+<p>10 000 × 6,5 ÷ 100 × 1,85 = 1 202,50 € par an, soit environ 100 € par mois.</p>
+</div>
+
+<h2>2. L'assurance automobile</h2>
+<p>L'assurance représente une dépense régulière. Son prix dépend notamment du véhicule, du niveau de couverture, du lieu de résidence et du profil du conducteur.</p>
+<p>Pour obtenir une estimation réaliste, utilise le montant de ton propre contrat ou demande plusieurs devis. En France, l'assurance responsabilité civile est obligatoire pour un véhicule terrestre à moteur, même s'il ne roule pas, sous réserve des exceptions prévues par la loi.</p>
+
+<h2>3. L'entretien et les réparations</h2>
+<p>Vidanges, filtres, freins, batterie, courroie de distribution et réparations imprévues : ces dépenses doivent être anticipées.</p>
+<p>Une voiture ancienne ou fortement kilométrée peut demander davantage de réparations. Il est donc préférable de prévoir une enveloppe annuelle plutôt que de considérer que l'entretien ne coûte rien les mois sans intervention.</p>
+
+<h2>4. Les pneus et les autres frais</h2>
+<p>Les pneus s'usent avec le temps et les kilomètres. Il faut aussi penser au stationnement, aux péages, au contrôle technique et aux éventuels frais annexes.</p>
+<p>Ces dépenses varient fortement selon ton utilisation. Note tes factures pour obtenir une moyenne plus fiable.</p>
+
+<h2>5. La décote : une dépense souvent oubliée</h2>
+<p>La décote correspond à la perte de valeur du véhicule entre son achat et sa revente. Elle représente un coût économique, même si tu ne paies pas cette somme chaque mois.</p>
+<div class="card">
+<strong>Exemple :</strong>
+<p>Tu achètes une voiture 6 000 € et estimes pouvoir la revendre 4 000 € après trois ans.</p>
+<p>Décote totale : 6 000 − 4 000 = 2 000 €.</p>
+<p>Décote mensuelle moyenne : 2 000 ÷ 36 = environ 55,56 €.</p>
+</div>
+
+<h2>6. Exemple d'un budget automobile mensuel</h2>
+<p>Voici une simulation purement illustrative, avec des hypothèses choisies pour expliquer le calcul. Ce ne sont pas des moyennes nationales ni des tarifs garantis.</p>
+<table>
+<thead><tr><th>Dépense</th><th>Par mois</th></tr></thead>
+<tbody>
+<tr><td>Carburant</td><td>100 €</td></tr>
+<tr><td>Assurance</td><td>90 €</td></tr>
+<tr><td>Entretien et réparations</td><td>42 €</td></tr>
+<tr><td>Pneus</td><td>13 €</td></tr>
+<tr><td>Stationnement et péages</td><td>20 €</td></tr>
+<tr><td>Décote</td><td>56 €</td></tr>
+<tr class="total"><td>Total estimé</td><td>321 €</td></tr>
+</tbody>
+</table>
+<p>Dans cet exemple, la voiture coûte environ 321 € par mois, hors remboursement d'un éventuel crédit. Ton propre budget peut être très différent.</p>
+
+<h2>7. Comment calculer le coût réel de ta voiture ?</h2>
+<p>Pour éviter les estimations trop approximatives, utilise tes propres chiffres : consommation réelle, kilomètres annuels, contrat d'assurance, factures d'entretien et valeur de revente estimée.</p>
+<p>Le plus important est de comparer des véhicules sur la même durée et avec une utilisation similaire.</p>
+
+<div class="cta">
+<h2>Calcule le coût réel de ta voiture</h2>
+<p>Renseigne tes dépenses et obtiens une estimation mensuelle, annuelle et au kilomètre. Tu peux aussi comparer deux véhicules.</p>
+<a href="./">Utiliser le calculateur AUTOCLAR</a>
+</div>
+
+<h2>Sources et informations utiles</h2>
+<ul>
+<li><a href="https://www.service-public.fr/particuliers/vosdroits/F2628" target="_blank" rel="noopener">Service-Public.fr : assurance automobile</a></li>
+<li><a href="https://www.ademe.fr/" target="_blank" rel="noopener">ADEME : informations sur les mobilités et les transports</a></li>
+</ul>
+<p><small>Les exemples de cette page sont indicatifs. Les coûts réels dépendent du véhicule, de son état, du conducteur et de son utilisation. AUTOCLAR est un outil de simulation budgétaire et ne remplace pas des devis professionnels.</small></p>
+</main>
+
+<footer>
+AUTOCLAR · Guide sur le coût réel d'une voiture · <a href="./">Retour à l'accueil</a>
+</footer>
+</body>
+</html>
